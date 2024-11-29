@@ -1,3 +1,5 @@
+const backendUrl = 'https://task-manager-rh47.onrender.com';
+
 const taskForm = document.getElementById('task-form');
 const taskInput = document.getElementById('task-input');
 const taskList = document.getElementById('task-list');
